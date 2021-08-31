@@ -1,1 +1,0 @@
-(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[273],{9760:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/service-binding-documentation/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/service-binding-documentation/blog/tags/facebook"}')}}]);
