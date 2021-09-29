@@ -92,6 +92,7 @@ framework specific programs:
 3. Java/Spring: https://github.com/spring-cloud/spring-cloud-bindings
 4. Quarkus: https://quarkus.io/guides/deploying-to-kubernetes#service-binding
 5. JS/Node: https://github.com/nodeshift/kube-service-bindings
+6. .NET: https://github.com/donschenck/dotnetservicebinding
 
 Note: All these libraries expect `SERVICE_BINDING_ROOT` to be set.
 
